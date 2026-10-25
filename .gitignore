@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+
+# Fichiers temporaires Excel/Office
+~$*
+
+# Sauvegardes locales
+backups/
+*.tmp
+
+# Données réelles (noms de fournisseurs/clients) — jamais versionnées
+supplier_registry.json
+Rapport_Controle_RS.xlsx
+Rapport*.xlsx
